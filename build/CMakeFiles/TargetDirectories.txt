@@ -1,0 +1,3 @@
+/home/loganschwa/Documents/RandomProjects/pendulum_kinematics/build/CMakeFiles/pendulum_sim.dir
+/home/loganschwa/Documents/RandomProjects/pendulum_kinematics/build/CMakeFiles/edit_cache.dir
+/home/loganschwa/Documents/RandomProjects/pendulum_kinematics/build/CMakeFiles/rebuild_cache.dir
